@@ -1,5 +1,5 @@
 # 💫About Me :
-A Penetration Tester | Application Security | Security Consultant | And noob Developer
+A Penetration Tester | Application Security | Security Consultant | And noob Developer. I write code but never finish. 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souravkalal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ano_F_) 
