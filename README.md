@@ -19,6 +19,8 @@ Find all my tools, blog posts, and curated resources here:
 [Email](mailto:kalalsourav20@gmail.com)
 
 ---
-
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anof-cyber&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 Thanks for visiting!  
 Feel free to check out my work and reach out if you want to collaborate or chat security.
